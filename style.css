@@ -1,0 +1,21 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #FFF8F3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.box{
+    width: 400px;
+    height: 250px;
+    background-color: #405D72;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F7E7DC;
+    margin: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+}
